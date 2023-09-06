@@ -3,6 +3,8 @@
 # Burger Sitesi 
 Bu README dosyası, Burger Sitesi projesini tanıtmak ve başlatmak için gereken temel bilgileri içerir.
 
+![](burger.gif)
+
 # Proje Hakkında
 Bu proje, şık tasarıma sahip bir burger sitesi oluşturmak için React.js kullanılarak geliştirilmiştir. Aşağıda proje özellikleri ve bileşenleri hakkında kısa bir açıklama bulunmaktadır:
 
