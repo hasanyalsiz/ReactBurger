@@ -1,71 +1,46 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Burger Sitesi 
+Bu README dosyası, Burger Sitesi projesini tanıtmak ve başlatmak için gereken temel bilgileri içerir.
 
-In the project directory, you can run:
+# Proje Hakkında
+Bu proje, şık tasarıma sahip bir burger sitesi oluşturmak için React.js kullanılarak geliştirilmiştir. Aşağıda proje özellikleri ve bileşenleri hakkında kısa bir açıklama bulunmaktadır:
 
-### `npm start`
+-Anasayfa (Home): Burger restoranının ana sayfasıdır. İşletme hakkında genel bilgiler sunar.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-Menü (Menu): Burgerlerin ve fiyatlarının listelendiği bir sayfadır. Kullanıcılar burada mevcut ürünleri inceleyebilirler.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-Hakkımızda (About): Burger restoranının hikayesi ve misyonu hakkında bilgi sunar.
 
-### `npm test`
+-İletişim (Contact): Kullanıcılar iletişim formunu doldurarak işletme ile iletişime geçebilirler.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Footer: Her sayfanın altında bulunan bir footer, sosyal medya bağlantıları ile iletişim bilgilerini içerir.
 
-### `npm run build`
+Başlarken
+Proje yerel bir geliştirme ortamında başlatmak için aşağıdaki adımları takip edebilirsiniz:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-Bu projeyi bilgisayarınıza klonlayın veya indirin.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+`git clone https://github.com/ReactBurger.git`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+`cd ReactBurger`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`npm install`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-Projeyi başlatın.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+npm start
+Bu komutlar, projenizi yerel bir geliştirme sunucusunda başlatacak ve web tarayıcınızda önizlemesini göstermeye başlayacaktır. Tarayıcınızda http://localhost:3000 adresine giderek proje önizlemesini görebilirsiniz.
 
-## Learn More
+# Katkıda Bulunma
+Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# ReactBurger
+# Bu projeyi forklayın.
+Yeni bir özellik veya düzeltme için bir dal (branch) oluşturun.
+Değişikliklerinizi yapın ve commit'leyin.
+Forkladığınız orijinal projeye pull request (çekme isteği) gönderin.
+İletişim
+Proje ile ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen email adresiniz adresi üzerinden benimle iletişime geçin veya GitHub üzerinden bir sorun (issue) açın.
